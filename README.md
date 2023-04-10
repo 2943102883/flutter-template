@@ -46,3 +46,4 @@ lib
 | 单位     | 编写了适配前端开发：`rpx`、`px`、`vw`、`vh` |
 | 时间     | 类Moment.js插件 `moment_dart`     |
 | 缓存     | 多端适配缓存插件`shared_preferences`   |
+| 一键更新   | `flutter_xupdate`              |

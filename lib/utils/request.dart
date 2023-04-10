@@ -46,6 +46,7 @@ class DioUtil {
   void _onRequest(RequestOptions options, RequestInterceptorHandler handler) {
     // 头部添加token
     options.headers["token"] = "Bearer xxx";
+    print('请求：【$options】');
     if (Config.printCURL) {
       try {
         log(cURLRepresentation(options));

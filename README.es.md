@@ -38,12 +38,13 @@ lib
 ```
 
 ## 3、Integrated
-| Name           | Function                                                            |
-|----------------|---------------------------------------------------------------------|
-| Bruno          | Out of the box Flutter component library                            |
+| Name           | Function                                                             |
+|----------------|----------------------------------------------------------------------|
+| Bruno          | Out of the box Flutter component library                             |
 | Getx           | Integrated functions such as state management and routing management |
-| Dio            | Encapsulates the network request using the singleton pattern        |
-| curl generator | Written a `curl` generation plugin                                  |
-| unit           | Compiled the adaptation front-end development：`rpx`、`px`、`vw`、`vh`  |
-| time           | Similar to Moment.js `moment_dart`                                  |
-| cache          | Multi end adaptive caching plugin`shared_preferences`                                        |
+| Dio            | Encapsulates the network request using the singleton pattern         |
+| curl generator | Written a `curl` generation plugin                                   |
+| unit           | Compiled the adaptation front-end development：`rpx`、`px`、`vw`、`vh`   |
+| time           | Similar to Moment.js `moment_dart`                                   |
+| cache          | Multi end adaptive caching plugin`shared_preferences`                |
+| quick update   | `flutter_xupdate`                                                    |

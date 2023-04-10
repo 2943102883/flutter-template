@@ -11,12 +11,10 @@ class LoginService {
   /// 初始化
   LoginService._internal() {
     // 初始化基本选项
-
   }
 
   /// 获取权限列表
   getUser() async {
-    // print('========getUser========');
     /// 开启日志打印
     // DioUtil.instance?.openLog();
     /// 发起网络接口请求
