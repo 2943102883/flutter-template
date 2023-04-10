@@ -30,7 +30,7 @@ lib
 │   └── login.dart              # Login Service
 ├── test.dart                   # Test files
 └── utils                       # Tools
-		├── curl.dart            		# Curl generation tool
+	├── curl.dart            		# Curl generation tool
     ├── request.dart            # Network Request
     └── rpx.dart                # Unit adaptation tool
 
@@ -43,8 +43,8 @@ lib
 | Bruno          | Out of the box Flutter component library                             |
 | Getx           | Integrated functions such as state management and routing management |
 | Dio            | Encapsulates the network request using the singleton pattern         |
-| curl generator | Written a `curl` generation plugin                                   |
-| unit           | Compiled the adaptation front-end development：`rpx`、`px`、`vw`、`vh`   |
+| curl generator | A `curl` generation plugin                                           |
+| unit           | Adapt to front-end development：`rpx`、`px`、`vw`、`vh`                  |
 | time           | Similar to Moment.js `moment_dart`                                   |
 | cache          | Multi end adaptive caching plugin`shared_preferences`                |
 | quick update   | `flutter_xupdate`                                                    |

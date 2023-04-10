@@ -26,6 +26,7 @@ environment:
 # dependencies can be manually updated by changing the version numbers below to
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
+# flutter_xupdate: ^2.0.4这个版本使用了不推荐的写法，如果可以请升级到flutter_xupdate: ^3.0.0
 dependencies:
   flutter:
     sdk: flutter

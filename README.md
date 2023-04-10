@@ -29,7 +29,7 @@ lib
 │   └── login.dart              # 登录服务
 ├── test.dart                   # 测试文件
 └── utils                       # 工具类
-		├── curl.dart            		# curl生成工具
+	├── curl.dart            		# curl生成工具
     ├── request.dart            # 网络请求
     └── rpx.dart                # 单位适配工具
 
@@ -37,13 +37,13 @@ lib
 ```
 
 ## 3、集成
-| 名称     | 功能                             |
-|--------|--------------------------------|
-| Bruno  | 开箱即用的Flutter组件库                |
-| Getx   | 集成了状态管理、路由管理等功能                |
-| Dio    | 使用单例模式封装了网络请求                  |
-| curl生成 | 编写了`curl`生成插件                  |
-| 单位     | 编写了适配前端开发：`rpx`、`px`、`vw`、`vh` |
-| 时间     | 类Moment.js插件 `moment_dart`     |
-| 缓存     | 多端适配缓存插件`shared_preferences`   |
-| 一键更新   | `flutter_xupdate`              |
+| 名称     | 功能                           |
+|--------|------------------------------|
+| Bruno  | 开箱即用的Flutter组件库              |
+| Getx   | 集成了状态管理、路由管理等功能              |
+| Dio    | 使用单例模式封装了网络请求                |
+| curl生成 | `curl`生成插件                   |
+| 单位     | 适配前端开发：`rpx`、`px`、`vw`、`vh`  |
+| 时间     | 类Moment.js插件 `moment_dart`   |
+| 缓存     | 多端适配缓存插件`shared_preferences` |
+| 一键更新   | `flutter_xupdate`            |
